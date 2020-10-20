@@ -18,6 +18,7 @@
 
 
 
+
 .select {
   margin-top: 3px;
   height: 40px;
@@ -146,4 +147,5 @@
 
 #divReserva{
   display:none;
+  font-family: 'Quicksand', sans-serif;
 }

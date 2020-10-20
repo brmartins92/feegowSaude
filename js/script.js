@@ -120,7 +120,7 @@ listaProfissionaisAbrir = () => {
     $("#listMedicos").show();
     $("#divReserva").hide();
     var especialidade = $("#selectEspecialidades option:selected").text();
-    $("#titleBusca").html('Médicos Encontrados da especialidade: '+ especialidade);
+    $("#titleBusca").html('<h5><b>Médicos Encontrados da especialidade: '+ especialidade +'<b></h5>');
   });
 }
 
